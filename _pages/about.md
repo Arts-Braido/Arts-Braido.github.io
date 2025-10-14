@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.irif.fr/en/equipes/algocomp/index'>IRIF (CNRS)</a>. Université Paris Cité, Bâtiment Sophie Germain.
 
 profile:
   align: right
