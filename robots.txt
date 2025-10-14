@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://arthurbraida.github.io/sitemap.xml
+Sitemap: https://arts-braido.github.io/sitemap.xml

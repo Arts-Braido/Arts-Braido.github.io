@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "Arts-Braido/arthur_braida.github.io",
+    "data-repo": "Arts-Braido/Arts-Braido.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
