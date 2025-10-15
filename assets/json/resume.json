@@ -89,7 +89,7 @@
       "courses": ["Probabilistic Algorithms","Machine Learning","Data Science","Decision Science"]
     }
   ],
-  "conference": [
+  "_awards": [
     {
       "title": "Adiabatic Quantum Computing",
       "date": "2023-06",
@@ -98,7 +98,7 @@
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
-  "certificates": [
+  "_certificates": [
     {
       "name": "Machine Learning",
       "date": "2018-01-01",
@@ -182,7 +182,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "French",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -206,7 +206,7 @@
       ]
     }
   ],
-  "references": [
+  "_references": [
     {
       "name": "Professor John Doe",
       "icon": "fa-solid fa-laptop",
