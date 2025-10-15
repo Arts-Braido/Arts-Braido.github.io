@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Arthur Braida",
+    "label": "Quantum computing scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "arthur.braida@irif.fr",
+    "phone": "",
+    "url": "",
+    "summary": "Postdoctoral Researcher in a joint collaboration between IRIF (CNRS Paris) and QuIC (ULB Brussels)",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "8 Pl. Aurélie Nemours",
+      "postalCode": "75013",
+      "city": "Paris",
+      "countryCode": "France",
+      "region": ""
     },
     "profiles": [
       {
@@ -24,20 +24,29 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Institut de Recherche en Informatique Fondamentale, Université Paris Cité",
+      "position": "CNRS Postdoctoral Researcher",
+      "url": "https://www.irif.fr/en/equipes/algocomp/index",
+      "startDate": "2025-04",
+      "endDate": "2026-10",
+      "summary": "Focusing on quantum optimization via analog quantum computing with Simon Apers and Elie Bermot",
+      "highlights": ["Non-convex optimization via adiabatic quantum computing", "Short-time performance of continuous-time quantum algorithms"]
+    },
+    {
+      "name": "Quantum Information and Communication, Université Libre de Bruxelles",
+      "position": "Postdoctoral Researcher",
+      "url": "http://quic.ulb.ac.be",
+      "startDate": "2024-10",
+      "endDate": "2025-04",
+      "summary": "International collaboration with Leonardo Nove, Shantanav Chakraborty, Jérémie Roland and Joseph Cunningham on optimilaty and limitation of unstructured adiabatic quantum optimization. Work on a continuous-time algorithm for phase estimation.",
+      "highlights": ["Quadratic speed-up of adiabatic quantum optimization with limitations", "Simulating a one dimensional projector"]
     }
   ],
-  "volunteer": [
+  "_volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
+      "organization": "dhamma.org",
+      "location": "France",
+      "position": "voluntary worker",
       "url": "https://example.com",
       "startDate": "2014-04-01",
       "endDate": "2015-07-01",
@@ -47,21 +56,43 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Université d'Orléans, France",
+      "location": "Orléans, France",
+      "url": "https://www.univ-orleans.fr/lifo/",
+      "area": "Quantum Computing",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2021-02",
+      "endDate": "2024-04",
+      "score": "Excellent",
+      "courses": ["Analog quantum computing","Lieb-Robinson bound","Perturbative theory","Spectral graph theory","PCP theorem"]
+    },
+    {
+      "institution": "Imperial College London, UK",
+      "location": "London, UK",
+      "url": "https://www.imperial.ac.uk/computing/",
+      "area": "Computer Science (Specialism in Artificial Intelligence)",
+      "studyType": "Master",
+      "startDate": "2018-10",
+      "endDate": "2019-09",
+      "score": "Distinction",
+      "courses": ["Quantum Programming","Probabilitic Inference","Machine Learning","Deep Learning","Reinforcement Learning","Privacy Engineering","Prolog","Modal Logic"]
+    },
+    {
+      "institution": "ISAE Supaero, France",
+      "location": "Toulouse, France",
+      "url": "https://www.isae-supaero.fr/en/",
+      "area": "Master of Science and Engineer Diploma",
+      "studyType": "Master",
+      "startDate": "2016-09",
+      "endDate": "2020-10",
+      "score": "GPA=4.2",
+      "courses": ["Probabilistic Algorithms","Machine Learning","Data Science","Decision Science"]
     }
   ],
-  "awards": [
+  "conference": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
+      "title": "Adiabatic Quantum Computing",
+      "date": "2023-06",
       "awarder": "Royal Swedish Academy of Sciences",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
