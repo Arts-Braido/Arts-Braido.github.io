@@ -87,6 +87,17 @@
       "endDate": "2020-10",
       "score": "GPA=4.2",
       "courses": ["Probabilistic Algorithms","Machine Learning","Data Science","Decision Science"]
+    },
+    {
+      "institution": "Lycée Saint Geneviève",
+      "location": "Versailles, France",
+      "url": "https://en.wikipedia.org/wiki/Lyc%C3%A9e_priv%C3%A9_Sainte-Genevi%C3%A8ve",
+      "area": "PCSI/PSI* Preparatory Classes",
+      "studyType": "Undergrad",
+      "startDate": "2014-09",
+      "endDate": "2016-06",
+      "score": "Excellent",
+      "courses": ["Intensive abstract Maths","Physics","Engineer science","Philosophy","Sports"]
     }
   ],
   "_awards": [
@@ -142,7 +153,7 @@
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
-  "publications": [
+  "_publications": [
     {
       "name": "Zur Elektrody/namik bewegter Körper",
       "publisher": "Annalen der Physik",
@@ -167,16 +178,26 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Julia",
+        "Python",
+        "C"
+      ]
+    },
+    {
+      "name": "Mathematical Tools",
+      "level": "PhD",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Linear Algebra",
+        "Elementary analysis",
+        "Quantum mechanics",
+        "Spectral graph theory",
+        "Perturbation theory",
+        "Combinatorial problems"
       ]
     }
   ],
@@ -197,12 +218,29 @@
       "name": "Physics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
+        "Quantum mechanics",
         "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Quantum Information"
+      ]
+    },
+    {
+      "name": "Consiousness",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Meditation",
+        "Counscious state",
+        "Integrated Information Theory",
+        "Global Workspace Theory"
+      ]
+    },
+    {
+      "name": "Physics",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Applied Philosophy",
+        "Human Psycology",
+        "Puzzle solving",
+        "Origami"
       ]
     }
   ],
@@ -218,7 +256,7 @@
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
-  "projects": [
+  "_projects": [
     {
       "name": "Quantum Computing",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
