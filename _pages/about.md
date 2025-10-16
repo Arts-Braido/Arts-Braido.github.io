@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hey I'm Arthur. Currently I'm involved in a joint postdoc between CNRS Paris with the team of Simon Apers at IRIF and ULB with the team of Jérémie Roland at QuIC.
+Hey I'm Arthur. Currently I'm involved in a joint postdoc between CNRS Paris with the team of Simon Apers at IRIF and ULB in Brussels with the team of Jérémie Roland at QuIC.
 
 At the moment my research lies at the intersection of theoretical computer science and physics. You can access to my publication at [publications page](/publications/). In my [thesis manuscript](https://theses.hal.science/tel-04706199v1/file/2024ORLE1017_va.pdf), I tried my best to give a pedagogical historical introduction of analog quantum computing, slowly narrowing the subject toward my PhD.
 
