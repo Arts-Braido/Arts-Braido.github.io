@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "Assistant teachings during my PhD at University of Orléans in the Computing Department. For the undergrad courses, more information can be found at Licence d&#39;Informatique à l&#39;Université d&#39;Orléans.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
