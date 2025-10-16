@@ -215,7 +215,16 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Sports",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Squash",
+        "Climbing",
+        "Rugby"
+      ]
+    },
+    {
+      "name": "Quantum stuff",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Quantum mechanics",
@@ -234,7 +243,7 @@
       ]
     },
     {
-      "name": "Physics",
+      "name": "Extra",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Applied Philosophy",
