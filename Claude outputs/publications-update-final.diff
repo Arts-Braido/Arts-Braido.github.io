@@ -1,0 +1,80 @@
+diff --git a/_bibliography/papers.bib b/_bibliography/papers.bib
+index e9ba921..9931f7d 100644
+--- a/_bibliography/papers.bib
++++ b/_bibliography/papers.bib
+@@ -1,6 +1,48 @@
+ ---
+ ---
+ 
++@article{braida2026tridiagonal,
++  bibtex_show={true},
++  title={Hamiltonian Eigenvalue Transformation by Tridiagonal Gadgets},
++  author={Braida, Arthur and Cunningham, Joseph and Roland, J{\'e}r{\'e}mie},
++  journal={arXiv preprint arXiv:2610.03295},
++  year={2026},
++  month={oct},
++  arxiv={2610.03295},
++  note={Presented at <a href="https://inqa.ijs.si/">INQA 2026</a> (Bled, November 2026)}
++}
++
++@inproceedings{braida2026logconcavity,
++  bibtex_show={true},
++  selected={true},
++  title={{Log-Concavity and Tunneling: Quantum Adiabatic Algorithm for Convex Functions (With a Spike)}},
++  author={Braida, Arthur and Bermot, Elie and Apers, Simon},
++  booktitle={34th Annual European Symposium on Algorithms (ESA 2026)},
++  series={Leibniz International Proceedings in Informatics (LIPIcs)},
++  volume={388},
++  pages={110:1--110:19},
++  editor={Bille, Philip and Pettie, Seth and Storandt, Sabine},
++  publisher={Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik},
++  address={Dagstuhl, Germany},
++  year={2026},
++  month={aug},
++  url={https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESA.2026.110},
++  doi={10.4230/LIPIcs.ESA.2026.110},
++  arxiv={2606.23614},
++  note={Also presented at <a href="https://sites.google.com/view/aqc2026/home">AQC 2026</a> (Tokyo)}
++}
++
++@inproceedings{nzongani2026scaling,
++  bibtex_show={true},
++  title={Scaling QAOA: transferring optimal adiabatic schedules from small-scale to large-scale variational circuits},
++  author={Nzongani, Ugo and Mermoud, Dylan Laplace and Braida, Arthur},
++  booktitle={IEEE International Conference on Quantum Control, Computing, and Learning (qCCL 2026)},
++  year={2026},
++  month={jul},
++  preview={qaoavsgapschedule.png},
++  arxiv={2602.14986}
++}
++
+ @article{Braida2025unstructured,
+   bibtex_show={true},
+   selected={true},
+@@ -102,14 +144,3 @@
+   arxiv={2311.12732},
+   publisher={Nature Publishing Group UK London}
+ }
+-
+-@article{nzongani2026scaling,
+-  bibtex_show={true},
+-  title={Scaling QAOA: transferring optimal adiabatic schedules from small-scale to large-scale variational circuits},
+-  author={Nzongani, Ugo and Mermoud, Dylan Laplace and Braida, Arthur},
+-  journal={arXiv preprint arXiv:2602.14986},
+-  year={2026},
+-  month={feb},
+-  preview={qaoavsgapschedule.png},
+-  arxiv={2602.14986}
+-}
+diff --git a/_config.yml b/_config.yml
+index 174e813..fa05740 100644
+--- a/_config.yml
++++ b/_config.yml
+@@ -313,6 +313,7 @@ filtered_bibtex_keywords:
+     google_scholar_id,
+     html,
+     inspirehep_id,
++    note,
+     pdf,
+     poster,
+     preview,
