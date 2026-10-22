@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Some of the code I used to derive my results of my projects.
+description: Some of the code I used to derive the results of my projects.
 nav: true
 nav_order: 4
 ---

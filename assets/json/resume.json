@@ -3,26 +3,28 @@
     "name": "Arthur Braida",
     "label": "Quantum computing scientist",
     "image": "",
-    "email": "arthur.braida@irif.fr",
+    "email": "abraida@renyi.hu",
     "phone": "",
     "url": "",
-    "summary": "Postdoctoral Researcher in a joint collaboration between IRIF (CNRS Paris) and QuIC (ULB Brussels)",
+    "summary": "Momentum MSCA Postdoctoral Fellow at the HUN-REN Alfréd Rényi Institute of Mathematics, Budapest",
     "location": {
-      "address": "8 Pl. Aurélie Nemours",
-      "postalCode": "75013",
-      "city": "Paris",
-      "countryCode": "France",
+      "address": "Reáltanoda utca 13-15",
+      "postalCode": "1053",
+      "city": "Budapest",
+      "countryCode": "Hungary",
       "region": ""
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "profiles": []
   },
   "work": [
+    {
+      "name": "HUN-REN Alfréd Rényi Institute of Mathematics, Budapest",
+      "position": "Momentum MSCA Postdoctoral Fellow",
+      "url": "https://renyi.hu/en/researchgroups/mta-hun-ren-ri-lendulet-momentum-quantum-computing-research-group",
+      "startDate": "2026-10",
+      "summary": "Quantum Computing Research Group of András Gilyén",
+      "highlights": []
+    },
     {
       "name": "Institut de Recherche en Informatique Fondamentale, Université Paris Cité",
       "position": "CNRS Postdoctoral Researcher",
@@ -38,7 +40,7 @@
       "url": "http://quic.ulb.ac.be",
       "startDate": "2024-10",
       "endDate": "2025-04",
-      "summary": "International collaboration with Leonardo Nove, Shantanav Chakraborty, Jérémie Roland and Joseph Cunningham on optimilaty and limitation of unstructured adiabatic quantum optimization. Work on a continuous-time algorithm for phase estimation.",
+      "summary": "International collaboration with Leonardo Novo, Shantanav Chakraborty, Jérémie Roland and Joseph Cunningham on the optimality and limitations of unstructured adiabatic quantum optimization. Work on a continuous-time algorithm for phase estimation.",
       "highlights": ["Quadratic speed-up of adiabatic quantum optimization with limitations", "Simulating a one dimensional projector"]
     }
   ],
@@ -47,11 +49,11 @@
       "organization": "dhamma.org",
       "location": "France",
       "position": "voluntary worker",
-      "url": "https://example.com",
+      "url": "",
       "startDate": "2014-04-01",
       "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "summary": "",
+      "highlights": []
     }
   ],
   "education": [
@@ -75,7 +77,7 @@
       "startDate": "2018-10",
       "endDate": "2019-09",
       "score": "Distinction",
-      "courses": ["Quantum Programming","Probabilitic Inference","Machine Learning","Deep Learning","Reinforcement Learning","Privacy Engineering","Prolog","Modal Logic"]
+      "courses": ["Quantum Programming","Probabilistic Inference","Machine Learning","Deep Learning","Reinforcement Learning","Privacy Engineering","Prolog","Modal Logic"]
     },
     {
       "institution": "ISAE Supaero, France",
@@ -89,7 +91,7 @@
       "courses": ["Probabilistic Algorithms","Machine Learning","Data Science","Decision Science"]
     },
     {
-      "institution": "Lycée Saint Geneviève",
+      "institution": "Lycée Sainte-Geneviève",
       "location": "Versailles, France",
       "url": "https://en.wikipedia.org/wiki/Lyc%C3%A9e_priv%C3%A9_Sainte-Genevi%C3%A8ve",
       "area": "PCSI/PSI* Preparatory Classes",
@@ -97,83 +99,7 @@
       "startDate": "2014-09",
       "endDate": "2016-06",
       "score": "Excellent",
-      "courses": ["Intensive abstract Maths","Physics","Engineer science","Philosophy","Sports"]
-    }
-  ],
-  "_awards": [
-    {
-      "title": "Adiabatic Quantum Computing",
-      "date": "2023-06",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "_certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "_publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "courses": ["Intensive abstract Maths","Physics","Engineering science","Philosophy","Sports"]
     }
   ],
   "skills": [
@@ -233,11 +159,11 @@
       ]
     },
     {
-      "name": "Consiousness",
+      "name": "Consciousness",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Meditation",
-        "Counscious state",
+        "Conscious state",
         "Integrated Information Theory",
         "Global Workspace Theory"
       ]
@@ -251,28 +177,6 @@
         "Puzzle solving",
         "Origami"
       ]
-    }
-  ],
-  "_references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "_projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
